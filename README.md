@@ -97,4 +97,4 @@ fintrack/
 ## 🙌 Author
 
 📧 yogeshchitosiya29@gmail.com  
-🔗 https://github.com/Yogesh297/ai-health-assistant
+🔗 (https://github.com/Yogesh297/fintrack)
